@@ -1,0 +1,14 @@
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Repository.deps.json
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Repository.dll
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Repository.pdb
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Contracts.dll
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Core.dll
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Contracts.pdb
+E:\Project\BlogServer.Api\BlogServer.Repository\bin\Debug\netcoreapp3.1\BlogServer.Core.pdb
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.csprojAssemblyReference.cache
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.AssemblyInfoInputs.cache
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.AssemblyInfo.cs
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.csproj.CoreCompileInputs.cache
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.csproj.CopyComplete
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.dll
+E:\Project\BlogServer.Api\BlogServer.Repository\obj\Debug\netcoreapp3.1\BlogServer.Repository.pdb

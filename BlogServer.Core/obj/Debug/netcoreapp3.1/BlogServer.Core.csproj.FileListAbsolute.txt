@@ -1,0 +1,12 @@
+E:\Project\BlogServer.Api\BlogServer.Core\bin\Debug\netcoreapp3.1\BlogServer.Core.deps.json
+E:\Project\BlogServer.Api\BlogServer.Core\bin\Debug\netcoreapp3.1\BlogServer.Core.dll
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.AssemblyInfoInputs.cache
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.AssemblyInfo.cs
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.csprojAssemblyReference.cache
+E:\Project\BlogServer.Api\BlogServer.Core\bin\Debug\netcoreapp3.1\BlogServer.Core.runtimeconfig.json
+E:\Project\BlogServer.Api\BlogServer.Core\bin\Debug\netcoreapp3.1\BlogServer.Core.runtimeconfig.dev.json
+E:\Project\BlogServer.Api\BlogServer.Core\bin\Debug\netcoreapp3.1\BlogServer.Core.pdb
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.csproj.CoreCompileInputs.cache
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.dll
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.pdb
+E:\Project\BlogServer.Api\BlogServer.Core\obj\Debug\netcoreapp3.1\BlogServer.Core.genruntimeconfig.cache
