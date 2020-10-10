@@ -60,15 +60,21 @@ namespace BlogServer.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<Object> Register(RegisterModel model)
+        public async Task<IActionResult> Register(RegisterModel model)
         {
+            Author author = new Author()
+            {
+                Name = model.Name,
+                DateOfBirth = model.Birthday,
+            };
+
             var account = new Account()
             {
                 UserName = model.Username,
                 Email = model.Email,
                 DateCreated = DateTime.UtcNow,
-                Role = "Admin",
-                AuthorId = 1
+                Role = "Author",
+                Author = author
             };
             try
             {

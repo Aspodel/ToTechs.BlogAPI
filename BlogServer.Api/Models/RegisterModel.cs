@@ -20,5 +20,7 @@ namespace BlogServer.Api.Models
         public string Password { get; set; }
 
         public string Name { get; set; }
+
+        public DateTime Birthday { get; set; }
     }
 }
